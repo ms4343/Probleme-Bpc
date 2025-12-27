@@ -18,5 +18,8 @@
     <ClCompile Include="c11.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="c2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
